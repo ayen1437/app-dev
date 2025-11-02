@@ -1,21 +1,21 @@
 **My_favorite_series**
--Windbreaker
--The chosen
--Fairy Tail
--Bleach
--Soul Eater
--Haikyuu
--Free!!
--Arcane
--Mushishi
--samurai X
--School Babysitters
--Ouran Highschool Host Club
--Hunter X Hunter
--Fushigiyugi
--Princess Sara
--Tokyo Revengers
--Yu yu Hakusho
--Barbie Movies
--Life in the DreamHouse
--Sofia the First
+- Windbreaker
+- The chosen
+- Fairy Tail
+- Bleach
+- Soul Eater
+- Haikyuu
+- Free!!
+- Arcane
+- Mushishi
+- samurai X
+- School Babysitters
+- Ouran Highschool Host Club
+- Hunter X Hunter
+- Fushigiyugi
+- Princess Sara
+- Tokyo Revengers
+- Yu yu Hakusho
+- Barbie Movies
+- Life in the DreamHouse
+- Sofia the First
